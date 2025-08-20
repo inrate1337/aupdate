@@ -1,16 +1,16 @@
-+ add Trails
-+ add TargetEsp ~ Ghost ~ Nursultan, Excellent
-~ No Render Ui in menu
-+ add Arial Font
-+ add sound setting
-~ Update LocalRender
-~ Nmaetags recode = more setting, head, and more
-+ HurtTimeFix
-~ Team
-+ add HealthWrning
-+ FastUse
-+ NameProtect
-+ add flareon water bypass and combt module
-+ add AutoMyst ~ Nevertime, PhoenixPe
-+ Particles ~ AttackAura ~ TargetLock
-~ Fix Velocity
+• add Trails
+• add TargetEsp ~ Ghost ~ Nursultan, Excellent
+• No Render Ui in menu
+• add Arial Font
+• add sound setting
+• Update LocalRender
+• Nmaetags recode = more setting, head, and more
+• HurtTimeFix
+• Team
+• add HealthWrning
+• FastUse
+• NameProtect
+• add flareon water bypass and combt module
+• add AutoMyst ~ Nevertime, PhoenixPe
+• Particles ~ AttackAura ~ TargetLock
+• Fix Velocity
