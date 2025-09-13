@@ -1,9 +1,22 @@
-~ Fix speed crash
-~ Fix Attack Aura
-~ Fix ElytraTarget
-+ Strafe - mode + Legit + Custom
-~ 50/50 Fix LocalRender (NEED TEST)
-+ add Armor Durability view
-+ add KeyBinds
-~ Fix staff list, more function
-~ Fix TargetEsp, ghost, nursultan, orbit
+~ fix more crash
+~ fix kill aura
+~ fix disbaler
+~ fix stafflist
+~ fix crash localrender
++ add disabler swim, glide (small hitbox not visual (phoenuix, frizmine))
++ strafe more mode + stable
++ ElytrTarget ~bypass frizmine, phoenix
++ TargetHud, durability view
+~ fix velocity 11 windows
++ fix render
++ new watermark details, uid
++ new intarface theme
++ TergetEsp
++ Suction
++ NameTgas recode
++ Tracers recode
++ AntiInvisible
++ New viewModel
++ flareonfly recode
++ autototem
++ waypoints
