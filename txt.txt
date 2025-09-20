@@ -1,22 +1,9 @@
-~ fix more crash
-~ fix kill aura
-~ fix disbaler
-~ fix stafflist
-~ fix crash localrender
-+ add disabler swim, glide (small hitbox not visual (phoenuix, frizmine))
-+ strafe more mode + stable
-+ ElytrTarget ~bypass frizmine, phoenix
-+ TargetHud, durability view
-~ fix velocity 11 windows
-+ fix render
-+ new watermark details, uid
-+ new intarface theme
-+ TergetEsp
-+ Suction
-+ NameTgas recode
-+ Tracers recode
-+ AntiInvisible
-+ New viewModel
-+ flareonfly recode
-+ autototem
-+ waypoints
+~ Fixed crashes on Windows 11 when opening the GUI
+~ Fixed some crashes (not all)
+~ Visual GUI changes
++ Smooth HUD and GUI animations
+~ Elytra Target (beta!!!!! May crash, but very rarely): Changed mechanics, fixed some bugs, simplified setup, added overtaking speed and fixed the overtaking system, and slightly tweaked the follow system, + New rotation system
++ TargetESP, new NURSULTAN style, + Circle, + Minor optimization
+~ Strafe: Slightly improved
+~ 50/50 fixed crashes on kills and when enabling killaura
++ Disabler: Small hitbox, works with Frizmine, Phoenixpe, Nevertime Known (bypass Frizmine swim mode)
